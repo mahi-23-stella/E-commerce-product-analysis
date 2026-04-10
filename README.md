@@ -1,36 +1,55 @@
-# E-commerce-product-analysis
-E-commerce Product Analysis Project (India)
+## 🛒 E-commerce Product Analysis (India)
 
-This project analyzes product-level data from a simulated Indian e-commerce platform, similar to Flipkart and Amazon India. The primary objective is to help business teams make data-driven decisions by identifying high-performing categories, profitable products, return trends, and pricing strategies.
+This project analyzes product-level data from a simulated Indian e-commerce platform (similar to Flipkart/Amazon India) to identify revenue drivers, profitability trends, return issues, and pricing strategies.
 
-📊 Dashboard Overview
-📦 Total Products: 120
-💰 Total Revenue: ₹2.1 Crore
-📈 Total Profit: ₹1.2 Crore
-🛍️ Total Units Sold: 1,80,000+
-⭐ Average Rating: 4.3 / 5.0
-🔁 Average Return Rate: 1.9%
-🏷️ Total Categories: 9
-🏢 Total Brands: 68+
-🔍 Key Insights
-📱 Electronics contributes the highest revenue (71%) but operates on the lowest profit margin (33%), indicating high volume but lower efficiency.
-📚 Books category delivers the highest profit margins (78–85%) along with the lowest return rates (0.4–0.8%), making it the most stable segment.
-💄 Beauty products maintain strong margins (65%+) with consistent customer satisfaction and low returns.
-🔁 Clothing has the highest return rate (2.9%), suggesting quality or sizing issues that need attention.
-🍎 Apple emerges as the top revenue-generating brand (₹422L) despite having fewer SKUs, highlighting premium positioning.
-🎧 Boat Rockerz stands out in electronics with high unit sales (1200) and a solid margin of 52%, offering strong value performance.
-📖 Rich Dad Poor Dad is the highest-margin product (85%) with 9,870 reviews, indicating both profitability and popularity.
-🛒 Products priced between ₹400–₹1,500 achieve the best balance between sales volume and profitability.
-💡 Business Recommendations
-Increase Books Inventory
-Focus on expanding the Books category due to its high margins (78–85%) and low return rates.
-Reduce Discounts in Electronics
-Since margins are already low (33%), excessive discounting should be avoided to protect profitability.
-Improve Clothing Quality
-Address the high return rate (2.9%) by auditing product quality, sizing standards, and customer feedback.
-Promote Beauty Cross-Selling
-Leverage high margins and customer satisfaction by bundling beauty products and encouraging add-on purchases.
-Focus on Mid-Range Pricing (₹400–₹1,500)
-Invest more in this pricing segment as it delivers the best combination of volume and profit.
-Expand Sports Category Reach
-Increase marketing and distribution efforts for sports products, which show good margins but lower market penetration.
+---
+
+## 📊 Dashboard Summary
+
+| Metric            | Value      |
+| ----------------- | ---------- |
+| 📦 Total Products | 120        |
+| 💰 Total Revenue  | ₹2.1 Crore |
+| 📈 Total Profit   | ₹1.2 Crore |
+| 🛍️ Units Sold    | 1,80,000+  |
+| ⭐ Avg Rating      | 4.3 / 5.0  |
+| 🔁 Return Rate    | 1.9%       |
+| 🏷️ Categories    | 9          |
+| 🏢 Brands         | 68+        |
+
+---
+
+## 🔍 Key Insights
+
+| Category / Product   | Insight                                             |
+| -------------------- | --------------------------------------------------- |
+| 📱 Electronics       | 71% revenue share but lowest margin (33%)           |
+| 📚 Books             | Highest margin (78–85%) + lowest returns (0.4–0.8%) |
+| 💄 Beauty            | 65%+ margin, highly efficient category              |
+| 👕 Clothing          | Highest return rate (2.9%)                          |
+| 🍎 Apple             | Top revenue brand (₹422L) despite fewer SKUs        |
+| 🎧 Boat Rockerz      | High sales (1200 units) + 52% margin                |
+| 📖 Rich Dad Poor Dad | Highest margin product (85%) with 9,870 reviews     |
+| 💰 ₹400–₹1,500 range | Best balance of volume + profitability              |
+
+---
+
+## 💡 Business Recommendations
+
+| # | Recommendation                | Reason                              |
+| - | ----------------------------- | ----------------------------------- |
+| 1 | Increase Books inventory      | High margin + low return rate       |
+| 2 | Reduce Electronics discounts  | Already low margins                 |
+| 3 | Improve Clothing quality      | Highest return rate (2.9%)          |
+| 4 | Push Beauty cross-selling     | High margin & customer satisfaction |
+| 5 | Focus on ₹400–₹1,500 products | Best profit + sales combo           |
+| 6 | Expand Sports category        | Good margin but low reach           |
+
+---
+
+## ✅ Conclusion
+
+The analysis clearly shows that focusing on high-margin categories like Books and Beauty, controlling costs in Electronics, and reducing returns in Clothing can significantly improve overall profitability. Pricing strategy also plays a key role, with mid-range products delivering the best results.
+<img width="1633" height="519" alt="Screenshot 2026-04-09 135702" src="https://github.com/user-attachments/assets/2f6c5c73-fa72-47fe-bb56-5a75ce1fae60" />
+<img width="1634" height="758" alt="Screenshot 2026-04-09 135535" src="https://github.com/user-attachments/assets/72a68c26-b5a8-4003-884a-aa3b911e8a45" />
+<img width="1645" height="780" alt="Screenshot 2026-04-09 135509" src="https://github.com/user-attachments/assets/7cb70b3f-80f3-426c-b44d-a41eb214e296" />
