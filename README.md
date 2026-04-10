@@ -50,6 +50,8 @@ This project analyzes product-level data from a simulated Indian e-commerce plat
 ## ✅ Conclusion
 
 The analysis clearly shows that focusing on high-margin categories like Books and Beauty, controlling costs in Electronics, and reducing returns in Clothing can significantly improve overall profitability. Pricing strategy also plays a key role, with mid-range products delivering the best results.
-<img width="1633" height="519" alt="Screenshot 2026-04-09 135702" src="https://github.com/user-attachments/assets/2f6c5c73-fa72-47fe-bb56-5a75ce1fae60" />
-<img width="1634" height="758" alt="Screenshot 2026-04-09 135535" src="https://github.com/user-attachments/assets/72a68c26-b5a8-4003-884a-aa3b911e8a45" />
 <img width="1645" height="780" alt="Screenshot 2026-04-09 135509" src="https://github.com/user-attachments/assets/7cb70b3f-80f3-426c-b44d-a41eb214e296" />
+<img width="1634" height="758" alt="Screenshot 2026-04-09 135535" src="https://github.com/user-attachments/assets/72a68c26-b5a8-4003-884a-aa3b911e8a45" />
+<img width="1633" height="519" alt="Screenshot 2026-04-09 135702" src="https://github.com/user-attachments/assets/2f6c5c73-fa72-47fe-bb56-5a75ce1fae60" />
+
+
